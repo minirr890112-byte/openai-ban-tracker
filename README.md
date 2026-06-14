@@ -29,6 +29,14 @@ openai-ban-tracker appeal --lang en --output appeal.txt
 # 5. 实时扫描社区信号
 openai-ban-tracker scan
 ```
+## 🌐 生态系统
+
+| Tool | Description |
+|---|---|
+| [cursor-doctor](https://github.com/minirr890112-byte/cursor-doctor) | Cursor IDE 诊断修复工具 |
+| [claude-intel-monitor](https://github.com/minirr890112-byte/claude-intel-monitor) | AI模型降智检测 |
+| [prompt-inspector](https://github.com/minirr890112-byte/prompt-inspector) | Prompt 审查触发词扫描 |
+
 
 ## 命令详解
 
