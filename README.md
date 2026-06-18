@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/ClawHub-downloads-0-blue" alt="ClawHub downloads">
+  <img src="https://img.shields.io/badge/ban%20reasons-8-red" alt="8 ban reasons">
+  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="MIT license">
+</p>
+
 # 🔍 openai-ban-tracker
 
-OpenAI 封号风险检测与解封追踪 CLI 工具。
+> **EN**: OpenAI account ban risk detection & appeal tracking CLI. Assess your risk in 9 questions, learn 8 known ban reasons, generate appeal templates in Chinese & English, scan V2EX for real-time ban signals.
+>
+> **中文**: OpenAI 封号风险检测与解封追踪 CLI 工具。9 题风险评估、8 种已确认封号原因、中英文申诉模板、V2EX 社区实时扫描。
 
-> **背景**: 2026年6月，OpenAI 再次大规模封号，V2EX 社区 24 小时内出现 23 回复 + 18 回复两个热帖。用户困惑于为什么被封、如何申诉、是否会解封。
+> **背景 / Background**: 2026年6月，OpenAI 再次大规模封号，V2EX 社区 24 小时内出现 23 回复 + 18 回复两个热帖。用户困惑于为什么被封、如何申诉、是否会解封。 / June 2026: OpenAI launched another mass ban wave. V2EX community exploded with 23+18 reply threads within 24 hours. Users confused about why they were banned, how to appeal, and whether bans are reversed.
 
 ## 安装
 
